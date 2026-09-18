@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · omkar-jagtap8443</sub></p>
 <h1>omkar jagtap</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>Full Stack Developer</h2>
 <p>Building useful software and sharing the work in public.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
@@ -25,7 +25,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · TypeScript · HTML</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Full Stack Developer · JavaScript · TypeScript · React · Node.js · MongoDB</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>15 repositories · 0 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>319 contributions · 54 active days</p></td>
 </tr>
@@ -110,7 +110,7 @@
 
 <table width="100%">
 <tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="62%" valign="middle"><h2>Let's talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
 <td width="38%" valign="middle" align="right"><a href="https://github.com/omkar-jagtap8443">GitHub</a></td>
 </tr>
 </table>
