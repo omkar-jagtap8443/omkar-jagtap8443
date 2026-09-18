@@ -9,7 +9,7 @@
 <p>Building useful software and sharing the work in public.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
-<p><a href="https://github.com/omkar-jagtap8443">GitHub</a></p>
+<p><a href="https://github.com/omkar-jagtap8443">https://github.com/omkar-jagtap8443</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
 <picture>
@@ -111,6 +111,6 @@
 <table width="100%">
 <tr>
 <td width="62%" valign="middle"><h2>Let's talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/omkar-jagtap8443">GitHub</a></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/omkar-jagtap8443">https://github.com/omkar-jagtap8443</a></td>
 </tr>
 </table>
