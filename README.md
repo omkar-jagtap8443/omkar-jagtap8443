@@ -114,5 +114,3 @@
 <td width="38%" valign="middle" align="right"><a href="https://github.com/omkar-jagtap8443">GitHub</a></td>
 </tr>
 </table>
-
-<p align="center"><sub>omkar jagtap · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
