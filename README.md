@@ -1,4 +1,4 @@
-<!-- Header Section -->
+<!-- Header Typing Animation -->
 <div align="center">
   <br />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=omkarjagtap%40github+~+%24+whoami;Omkar+Jagtap+%E2%80%94+Full+Stack+Developer" alt="Typing SVG" />
@@ -18,33 +18,64 @@
 
 <br />
 
-<!-- Main Content: ASCII Art + Neofetch Info -->
-<table border="0" width="100%">
-  <tr>
-    <td width="35%" valign="top" align="center">
-      <!-- ASCII Art Image -->
-      <img src="https://raw.githubusercontent.com/omkarjagtap/omkarjagtap/main/ascii-art.png" alt="ASCII Art" width="100%" />
-      <!-- If you don't have an ascii art image yet, use a placeholder like this: -->
-      <!-- <img src="https://media.giphy.com/media/xUOxf7X1k5h8h6h8h6/giphy.gif" width="200" /> -->
-    </td>
-    <td width="65%" valign="top">
-      <!-- Neofetch Style Code Block -->
-      <pre>
+<!-- Main Content: The Terminal Window -->
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; width: 100%; max-width: 900px;">
+    <tr>
+      <!-- Left Side: The ASCII Art -->
+      <td width="35%" valign="middle" align="center" style="padding: 10px; border-right: 1px solid #30363d; vertical-align: middle;">
+        <pre style="color: #39FF14; font-family: 'Courier New', Courier, monospace; font-size: 10px; line-height: 1.1; text-align: left; background-color: transparent; border: none; margin: 0;">
+.+:-   .   ...                                  
+                              ..  .           .:.                               
+                             :.   -    :  ..     +.                             
+                            .:.   .    ..        .:.                            
+                            .-.   -    .        .-..                            
+                            .:.   -    :. .  .. .::.                            
+                            .=-   :  . .. .  .  .-:.                            
+                            .=:   .  . ..    .   -:.                            
+                           .+.-   :    ..    .   : +.                           
+                           .*..   .    .         ..=                            
+                            .:-   .     .    .. ..:.                            
+                            .:.   .  . ..       .:.                             
+                             ..-  .  .          +..                             
+                              .:. .    .       ...                              
+                              ..-=            --..                              
+                             ..:= -    -     ..-:.                              
+                            ..:   .    :.    .   :..                            
+                        ...:::    .    .     .  ....:..                         
+                     ..-:    :.   :    .   .     :  .  :-..                     
+                  .-         .         .         .  .    . .-.                  
+                .: .   ..    :.   :  . .. .   . .:  -   .  .. :.                
+               .:. .. .:. .  -=   :.   .: .. .   :. .  ... .:  =.               
+              .-.  :   ..    ::   :  . .     ..  -  :   .  ..   +.              
+              .:. ..  .:     :-   :  .  .  .     .. :.   . ..   :.              
+              . . ..   ..    -:   .  . .        .:  .   .  .   .:.
+        </pre>
+        <br />
+        <div style="transform: rotate(-90deg); white-space: nowrap; color: #39FF14; font-family: monospace; letter-spacing: 5px; position: relative; top: -50px;">
+          @omkarjagtap
+        </div>
+      </td>
+      
+      <!-- Right Side: The Neofetch Text -->
+      <td width="65%" valign="top" style="padding: 20px;">
+        <pre style="background-color: transparent; border: none; color: #ffffff; font-family: 'Courier New', Courier, monospace; font-size: 14px; line-height: 1.5;">
 <code>$ neofetch
-<strong>omkarjagtap@github</strong>
+<strong style="color: #39FF14;">omkarjagtap@github</strong>
 -----------------------------
-<strong>▶ Role:</strong> Full Stack Developer (MERN)
-<strong>▶ Currently:</strong> Building scalable web apps
-<strong>▶ Learning:</strong> Next.js & Backend architecture
-<strong>▶ Stack:</strong> JS · TS · React · Redux · Next.js
+<strong style="color: #39FF14;">▶ Role:</strong> Full Stack Developer (MERN)
+<strong style="color: #39FF14;">▶ Currently:</strong> Building scalable web apps
+<strong style="color: #39FF14;">▶ Learning:</strong> Next.js & Backend architecture
+<strong style="color: #39FF14;">▶ Stack:</strong> JS · TS · React · Redux · Next.js
        Node.js · Express.js · MongoDB · Git
-<strong>▶ Portfolio:</strong> <a href="https://omkarjagtap.vercel.app">omkarjagtap.vercel.app</a>
-<strong>▶ Email:</strong> omkarjagtap368@gmail.com
-<strong>▶ Fun fact:</strong> loves building robust backend systems</code>
-      </pre>
-    </td>
-  </tr>
-</table>
+<strong style="color: #39FF14;">▶ Portfolio:</strong> <a href="https://omkarjagtap.vercel.app" style="color: #58a6ff;">omkarjagtap.vercel.app</a>
+<strong style="color: #39FF14;">▶ Email:</strong> omkarjagtap368@gmail.com
+<strong style="color: #39FF14;">▶ Fun fact:</strong> loves building robust backend systems</code>
+        </pre>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br />
 
