@@ -1,19 +1,118 @@
-<p align="center"><code>omkar-jagtap8443@github ~ $ whoami</code></p>
-<h3 align="center">Omkar Jagtap — Full Stack Developer</h3>
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · omkar-jagtap8443</sub></p>
+<h1>omkar jagtap</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+
+<p><a href="https://github.com/omkar-jagtap8443">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=omkar-jagtap8443&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230614404%3Fu%3D2407213f228fedf21329f6eb8ce9521047963439%26v%3D4&color=1&v=recruiter-portrait-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=omkar-jagtap8443&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230614404%3Fu%3D2407213f228fedf21329f6eb8ce9521047963439%26v%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="omkar jagtap animated colored ASCII portrait" />
+</picture>
+</td>
+</tr>
+</table>
+</div>
+
+<h2>What teams can evaluate quickly</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · TypeScript · HTML</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>15 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>319 contributions · 54 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Building useful software and sharing the work in public.</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>15</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>319</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
 <p align="center">
-  <!-- This image is generated automatically by your Python scripts -->
-  <img src="./svg/readme-hero.svg" alt="Omkar Jagtap — tagline, contribution graph, ASCII portrait, and info card" width="860" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=omkar-jagtap8443&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230614404%3Fu%3D2407213f228fedf21329f6eb8ce9521047963439%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=omkar-jagtap8443&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230614404%3Fu%3D2407213f228fedf21329f6eb8ce9521047963439%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="omkar jagtap GitHub proof metrics" />
+</picture>
 </p>
 
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=omkar-jagtap8443&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230614404%3Fu%3D2407213f228fedf21329f6eb8ce9521047963439%26v%3D4&repos=omkar-jagtap8443%2Fomkar-jagtap8443%2Comkar-jagtap8443%2FMIT%2Comkar-jagtap8443%2FAapli-wari-2%2Comkar-jagtap8443%2Fsmartmatrix&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=omkar-jagtap8443&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230614404%3Fu%3D2407213f228fedf21329f6eb8ce9521047963439%26v%3D4&repos=omkar-jagtap8443%2Fomkar-jagtap8443%2Comkar-jagtap8443%2FMIT%2Comkar-jagtap8443%2FAapli-wari-2%2Comkar-jagtap8443%2Fsmartmatrix&v=recruiter-projects-1&mode=dark" width="100%" alt="omkar jagtap selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/omkar-jagtap8443/omkar-jagtap8443">omkar-jagtap8443</a></h3>
+<p>A selected public project.</p>
+<p><sub>⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/omkar-jagtap8443/omkar-jagtap8443">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/omkar-jagtap8443/MIT">MIT</a></h3><p>SQL</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/omkar-jagtap8443/Aapli-wari-2">Aapli-wari-2</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/omkar-jagtap8443/smartmatrix">smartmatrix</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
+
 <p align="center">
-  <!-- REPLACE the link below with your actual portfolio URL -->
-  <a href="https://omkarjagtap.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-39d353?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=0d1117" alt="Portfolio" /></a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=omkar-jagtap8443&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230614404%3Fu%3D2407213f228fedf21329f6eb8ce9521047963439%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=omkar-jagtap8443&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230614404%3Fu%3D2407213f228fedf21329f6eb8ce9521047963439%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="omkar jagtap technology stack" />
+</picture>
 </p>
 
-<p align="center"><code>omkar-jagtap8443@github ~ $ ./stats.sh</code></p>
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>52% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>34% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>9% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>4% of public code</sub></td>
+<td width="20%" align="center"><strong>Dockerfile</strong><br /><sub>0% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
+
 <p align="center">
-  <!-- These stats will now pull from YOUR username, not Pritesh's -->
-  <img src="https://github-stats-extended.vercel.app/api?username=omkar-jagtap8443&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353&border_color=30363d" alt="GitHub stats" height="195" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=omkar-jagtap8443&layout=compact&hide_border=false&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&border_color=30363d" alt="Top languages" height="195" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=omkar-jagtap8443&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230614404%3Fu%3D2407213f228fedf21329f6eb8ce9521047963439%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=omkar-jagtap8443&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230614404%3Fu%3D2407213f228fedf21329f6eb8ce9521047963439%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="omkar jagtap contribution activity" />
+</picture>
 </p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/omkar-jagtap8443">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>omkar jagtap · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
