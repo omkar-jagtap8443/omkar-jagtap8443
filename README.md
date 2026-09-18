@@ -1,25 +1,23 @@
 <div align="center">
-  <h1>Omkar Jagtap</h1>
-  <p><strong>$ Full Stack Developer · Backend Lover</strong></p>
+
+# `OMKAR@GITHUB`
+
+### `INFORMATION TECHNOLOGY STUDENT`
+
+`DEVELOPER` • `CYBERSECURITY` • `HACKATHON BUILDER`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=%5B%2B%5D+System+initialized...;%5B%2B%5D+Access+granted+%E2%9C%93;Welcome+to+Omkar's+GitHub;%24+build+%7C+learn+%7C+secure" />
+
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/omkar-jagtap8443/omkar-jagtap8443/main/hacker.jpg" alt="Matrix Hacker" width="400" style="border-radius: 8px; border: 1px solid #30363d;" />
-</div>
-
-<br />
+---
 
 ```text
-$ neofetch
-omkar-jagtap8443@github
------------------------------
-▶ Role: Full Stack Developer
-▶ Currently: Building scalable web apps
-▶ Learning: Next.js & Backend architecture
-▶ Stack: JS · TS · React · Redux · Next.js
-       Node.js · Express.js · MongoDB · Git
-▶ Portfolio: https://omkarjagtap.vercel.app
-▶ Email: omkarjagtap368@gmail.com
-▶ Fun fact: loves building robust backend systems
+┌──(omkar㉿github)-[~]
+└─$ whoami
+
+Omkar Jagtap
+Information Technology Student
+Developer
+Cybersecurity Enthusiast
+Hackathon Builder
