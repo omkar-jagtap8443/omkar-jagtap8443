@@ -14,10 +14,7 @@
 <p><a href="https://github.com/omkar-jagtap8443">https://github.com/omkar-jagtap8443</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=omkar-jagtap8443&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230614404%3Fu%3D2407213f228fedf21329f6eb8ce9521047963439%26v%3D4&color=1&v=recruiter-portrait-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=omkar-jagtap8443&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230614404%3Fu%3D2407213f228fedf21329f6eb8ce9521047963439%26v%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="omkar jagtap animated colored ASCII portrait" />
-</picture>
+
 </td>
 </tr>
 </table>
